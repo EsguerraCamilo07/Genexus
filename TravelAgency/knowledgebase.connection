@@ -1,0 +1,11 @@
+﻿<ConnectionInformation>
+	<DBName>GX_KB_TravelAgency</DBName>
+	<IntegratedSecurity>True</IntegratedSecurity>
+	<ServerInstance>(LocalDB)\MSSQLLocalDB</ServerInstance>
+	<CreateDbInKbFolder>True</CreateDbInKbFolder>
+	<Directory>C:\Users\juan.esguerra\KBs\TravelAgency</Directory>
+	<DataFile>GX_KB_TravelAgency.mdf</DataFile>
+	<LogFile>GX_KB_TravelAgency_log.ldf</LogFile>
+	<HostName>002-001-00759</HostName>
+	<DetachOnClose>False</DetachOnClose>
+</ConnectionInformation>
